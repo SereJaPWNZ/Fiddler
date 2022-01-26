@@ -178,6 +178,11 @@ Task:
  - В ответе удалить параметр person. 
  - В ответе поменять значение параметр person с json на xml. 
 
+![Ex6](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex6.png)
+![Ex6(1)](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex6(1).png)
+![Ex6(2)](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex6(2).png)
+![Ex6(3)](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex6(3).png)
+
 ### Все настройки правил Fiddler выгрузить в GitHub
 
 [Link Fiddler Settings](https://github.com/SereJaPWNZ/Fiddler/blob/master/)
