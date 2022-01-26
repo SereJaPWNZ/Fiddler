@@ -7,6 +7,7 @@
 Protocol: http
 IP: 162.55.220.72
 Port: 5005
+![Ex0](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex0.png)
 
 ### Ex_1: 
 Method: GET
@@ -26,6 +27,7 @@ Task:
  ⁃ Подменить url в чтобы в запросе поменялся name которые вы вписали в Postman.
  - Подменить url в чтобы в запросе поменялся age которые вы вписали в Postman. 
 
+![Ex1](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex1.png)
 
 ### Ex_2:
 Method: POST
@@ -44,14 +46,17 @@ response:
 
 Task:
 Сделать правила:
- ⁃ Подменить тело запроса чтобы поменялся name которые вы вписали в Postman.
- - Подменить тело запроса чтобы поменялся age которые вы вписали в Postman. 
- - Подменить тело запроса чтобы поменялся salary которые вы вписали в Postman. 
- - Подменить тело запроса чтобы удалился age которые вы вписали в Postman.  (Получить 500 код)
- - В ответе поменять children на neighbors. 
- - В ответе поменять значение зарплаты u_salary_1_5_year на другую цифру. 
+ ⁃ Подменить тело запроса чтобы поменялся name которые вы вписали в Postman.!
+ - Подменить тело запроса чтобы поменялся age которые вы вписали в Postman. !
+ - Подменить тело запроса чтобы поменялся salary которые вы вписали в Postman. !
+ - Подменить тело запроса чтобы удалился age которые вы вписали в Postman.  (Получить 500 код) !
+ - В ответе поменять children на neighbors. !
+ - В ответе поменять значение зарплаты u_salary_1_5_year на другую цифру. !
  - В ответе удалить параметр salary. 
 
+![Ex2](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex2.png)
+![Ex2(1)](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex2(1).png)
+![Ex2(2)](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex2(2).png)
 
 ### Ex_3:
 Method: GET
@@ -71,13 +76,17 @@ Task:
 Сделать правила:
  ⁃ Подменить url в чтобы в запросе поменялся name которые вы вписали в Postman.
  - Подменить url в чтобы в запросе поменялся age которые вы вписали в Postman. 
- - Подменить url в чтобы в запросе поменялся salary которые вы вписали в Postman. 
+ - Подменить url в чтобы в запросе поменялся weight которые вы вписали в Postman. 
  - Подменить url в чтобы в запросе удалился weight которые вы вписали в Postman.
  - В ответе удалить параметр  daily_food.
  - В ответе поменять значение параметра daily_food на другую цифру. 
  - В ответе переименовать daily_sleep на sleep
  - В ответе поменять значение параметра daily_sleep на другую цифру. 
 
+![Ex3](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex3.png)
+![Ex3(1)](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex3(1).png)
+![Ex3(2)](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex3(2).png)
+![Ex3(3)](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex3(3).png)
 
 ### Ex_4:
 Method: GET
@@ -108,6 +117,10 @@ Task:
  - В ответе поменять значение параметра cat на другой json. 
  - Получить 405 код
 
+![Ex4](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex4.png)
+![Ex4(1)](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex4(1).png)
+![Ex4(2)](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex4(2).png)
+
 
 ### Ex_5:
 Method: GET
@@ -130,6 +143,10 @@ Task:
  - В ответе удалить параметр  salary.
  - В ответе поменять значение параметра salary на значение текстового типа. 
  - Получить 405 код
+
+![Ex5](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex5.png)
+![Ex5(1)](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex5(1).png)
+![Ex5(2)](https://github.com/SereJaPWNZ/Fiddler/blob/master/assert/Ex5(2).png)
 
 
 ### Ex_6:
